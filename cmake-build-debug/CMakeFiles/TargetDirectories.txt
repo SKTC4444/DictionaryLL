@@ -1,0 +1,3 @@
+/Users/subhankhan/Desktop/DictionaryLL/cmake-build-debug/CMakeFiles/DictionaryLL.dir
+/Users/subhankhan/Desktop/DictionaryLL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/subhankhan/Desktop/DictionaryLL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

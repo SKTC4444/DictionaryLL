@@ -1,0 +1,6 @@
+# ninja log v5
+1	1725	1703624975167094585	CMakeFiles/DictionaryLL.dir/node.cpp.o	9ccaae920f4575e1
+1	1918	1703624975371601431	CMakeFiles/DictionaryLL.dir/test.cpp.o	a9c635374bb12225
+0	1822	1703624975273334610	CMakeFiles/DictionaryLL.dir/linkedlist.cpp.o	b02e6d8ded1bfe39
+1	2124	1703624975580489655	CMakeFiles/DictionaryLL.dir/main.cpp.o	1f28d6e4be9d6d6c
+2124	2476	1703624975937811556	DictionaryLL	3bb7c7e21827163d
